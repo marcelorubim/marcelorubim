@@ -1,9 +1,10 @@
 
+### Marcelo Rubim
+
+Hi! I'm a software engineer at Banco do Brasil S/A!
+
 - 🔭 I’m currently working on Java, NodeJS, Typescript, React
 - 🌱 I’m currently learning DevOps, UX
 - 👯 I’m looking to collaborate on open source projects!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm not fun, at all 😄
