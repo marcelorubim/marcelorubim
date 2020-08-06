@@ -8,3 +8,6 @@ Hi! I'm a software engineer at Banco do Brasil S/A!
 - 👯 I’m looking to collaborate on open source projects!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm not fun, at all 😄
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
